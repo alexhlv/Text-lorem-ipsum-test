@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: #ebebeb;
+  width: 1920;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h1, h2 {
+  color: #dc812f;
+}
+
+.container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+p span {
+  font-weight: bold;
+}
